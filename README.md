@@ -69,18 +69,6 @@ python app.py
 
 ---
 
-## Screenshots
-
-Include screenshots such as:
-
-* Monitoring output
-* Dashboard interface
-* Database tables
-* Generated alerts
-* Device status monitoring
-
----
-
 ## How to Run
 
 Step 1:
